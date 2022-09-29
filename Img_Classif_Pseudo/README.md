@@ -1,10 +1,10 @@
-##Image Classification with Pseudo Labels
+##Image Classification with Pseudo Labels##
 
-#Visualize Class & Data Augmentation
+#Visualize Class & Data Augmentation#
 ![Alt Text](img/input.png)
 
-#Training Process
+#Training Process#
 ![Alt Text](img/train.png)
 
-#Pseudo Labels
+#Pseudo Labels#
 ![Alt Text](img/pseudo.png)
