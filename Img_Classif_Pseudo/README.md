@@ -4,7 +4,7 @@
 ![Alt Text](input.png)
 
 **Training Process**  
-![Alt Text](train.png)
+<img src="train.png" alt="train" width="200"/>
 
 **Pseudo Labels**  
 ![Alt Text](pseudo.png)
