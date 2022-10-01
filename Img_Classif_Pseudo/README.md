@@ -8,6 +8,7 @@ can help with our situation.
                                   i.e. on average ~40 for each category)
 2. Training set (unlabeled)  : 70%
 3. Validation set            : 25%
+
 ![input](imgs/input.png)
 
 **Training Process**  
