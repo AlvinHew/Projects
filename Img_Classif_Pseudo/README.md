@@ -11,8 +11,11 @@ can help with our situation.
 
 ![input](imgs/input.png)
 
-**Training Process**  
-<img src="train.png" alt="train" width="600"/>
+### Without Pretraining
+![input](imgs/baseline_40.png)
+
+### With Pretraining
+![input](imgs/pretrain_40.png)
 
 **Pseudo Labels**  
 ![Alt Text](pseudo.png)
