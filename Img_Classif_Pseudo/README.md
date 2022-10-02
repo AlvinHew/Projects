@@ -13,7 +13,7 @@ This dataset consists of 13,296 images of food, annotated with 11 categories. Fo
 ![input](imgs/input.png)
 
 ### Without Pretraining
-Training a small EfficientNetV2 with ~20M parameters from scratch, using just ~500 128 x 128 images seemed to not work.
+Training a small EfficientNetV2 with ~20M parameters from scratch, using just ~500 128 x 128 images, seemed to not work.
 
 ![baseline_40](imgs/baseline_40.png)
 
