@@ -1,8 +1,8 @@
 # Image Classification with Pseudo Labels 
 
-### Visualize Dataset 
-This dataset consists of 13296 images of food, annotated with 11 categories. For this scenario, we only have 
-~30% of our dataset labelled. Let's investigate how pretraining and self-training can help with our situation.
+### Problem and Dataset
+This dataset consists of 13296 images of food, annotated with 11 categories. For this scenario, we only have ~30% of our dataset labelled. Let's investigate how pretraining and self-training can help with our situation. We also used [lime](https://lime-ml.readthedocs.io/en/latest/index.html) to interpret the models prediction, where `green` means positive correlation while `red` means negative correlation.
+
 
 | Dataset | Split |
 |---|---|
@@ -20,3 +20,6 @@ This dataset consists of 13296 images of food, annotated with 11 categories. For
 
 **Pseudo Labels**  
 ![Alt Text](pseudo.png)
+
+# References
+[1] [Alt Text](https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu)
