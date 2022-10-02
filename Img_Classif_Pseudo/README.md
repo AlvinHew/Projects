@@ -1,7 +1,7 @@
 # Image Classification with Pseudo Labels 
 
 ### Problem and Dataset
-This dataset consists of 13296 images of food, annotated with 11 categories. For this scenario, we only had ~30% of our dataset labelled. For this project, we resized the images to 128 x 128. Let's investigate how pretraining and self-training can help with our situation. We also used [lime](https://lime-ml.readthedocs.io/en/latest/index.html) to interpret the models prediction, where `green` means positive correlation while `red` means negative correlation.
+This dataset consists of 13,296 images of food, annotated with 11 categories. For this scenario, we only had ~30% of our dataset labelled. For this project, we resized the images to 128 x 128. Let's investigate how pretraining and self-training can help with our situation. We also used [lime](https://lime-ml.readthedocs.io/en/latest/index.html) to interpret the models prediction, where `green` means positive correlation while `red` means negative correlation.
 
 
 | Dataset | Split |
