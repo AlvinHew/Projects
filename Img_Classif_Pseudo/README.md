@@ -22,4 +22,4 @@ This dataset consists of 13296 images of food, annotated with 11 categories. For
 ![Alt Text](pseudo.png)
 
 # References
-[1] [Alt Text](https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu)
+[1] [https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu](https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu)
