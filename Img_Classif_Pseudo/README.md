@@ -18,7 +18,7 @@ Training a small EfficientNetV2 with ~20M parameters from scratch, using just ~5
 ![baseline_40](imgs/baseline_40.png)
 
 ### With Pretraining
-By pretraining with the ImageNet dataset, not only does training proceed smoothly, the validation accuracy can be bumped up to above 65% if we train longer.
+By pretraining with the ImageNet dataset, not only did training proceed smoothly, the validation accuracy can be bumped up to above 65% if we train longer.
 
 ![pretrain_40](imgs/pretrain_40.png)
 
