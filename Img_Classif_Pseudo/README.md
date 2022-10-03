@@ -34,6 +34,3 @@ The following log shows that pseudo-labelled images were added at the beginning 
 Below are some predictions of the final model:
 
 ![pseudo_40](imgs/pseudo_40.png)
-
-# References
-[1] [https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu](https://colab.research.google.com/drive/15hMu9YiYjE_6HY99UXon2vKGk2KwugWu)
