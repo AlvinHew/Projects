@@ -12,11 +12,12 @@ Best-performing             |  Worst-performing
 # 2. S&P500 Forecasting
 Technical analysis assumes that future directions of stock prices can be predicted from patterns of prices in the past. Having this as motivation, this project uses recurrent neural networks for time-series forecasting of the S&P500 index, using only the price information. Using a simple GRU, we can achieve a mean absolute error (MAE) of 7.28 on the test set. The train-val-test split is 70%, 20% and 10% respectively.
 
-Fig 1: S&P500 price from 1990
+
+<b>Fig 1: S&P500 price from 1990</b>
 
 ![snp](imgs/snp.png) 
 
 
 Fig 2: Zoomed in version of the validation set and testing set
 
-![zoom](imgs/zoom.png) 
+![snpzoom](imgs/snpzoom.png) 
