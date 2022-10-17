@@ -9,7 +9,10 @@
 * Topics: Web Retrieval, Data Analytics, Pandas 
 
 #### 2.2. S&P500 Forecasting
-* Topics: Time-Series Forecasting, Regression, Techinical Analysis
+* Topics: Time-Series Forecasting, Regression, Technical Analysis
 
 ### 3. Monte Carlo Simulation 
-* Topics: C++, Numerical Computation
+* Topics: C++, Scientific Computing 
+
+### 4. Price Tag Detection
+* Topics: Object Detection, Digit Recognition
