@@ -10,7 +10,7 @@ Enhanced Super Resolution GAN (ESRGAN) pretrained on 128 x 128 bicubically downs
 
 YOLOv2 pretrained on the SVHN dataset
 
-##### Other attempts:
+#### Other attempts:
 * Tesseract OCR (LSTM-based): no detection, poor performance
 * YOLOv3 pretrained on noisy MNIST: pretrain weights corrupted, need to retrain
 
