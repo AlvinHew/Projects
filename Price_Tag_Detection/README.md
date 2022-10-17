@@ -1,7 +1,7 @@
 # Price Tag Detection and Digit Recognition
 
 ### Step 1: Price Tag Detection
-Yolov5s pretrained on the COCO dataset
+Yolov5s pretrained on the COCO dataset, fine-tuned for price tags
 
 ![input](imgs/AEONBIGBATUPAHATPS_20220706T103517396.jpg)
 
