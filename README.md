@@ -2,7 +2,7 @@
 
 ### 1. Loan Risk Prediction
 * Link: [Loan_Repay_Pred](https://github.com/AlvinHew/Projects/tree/main/Loan_Repay_Pred)
-* Topics: Data Science, Machine Learning, Data Cleaning, Ensemble Methods (Boosting), Finance
+* Topics: Data Science, Machine Learning, Data Cleaning, Ensemble Methods (Boosting), Data Visualization
 
 ### 2. Image Classification with Pseudo Labels
 * Link: [Img_Classif_Pseudo](https://github.com/AlvinHew/Projects/tree/main/Img_Classif_Pseudo)
