@@ -26,4 +26,7 @@
 * Link: [MonteCarlo](https://github.com/AlvinHew/Projects/tree/main/MonteCarlo)
 * Topics: C++, Scientific Computing 
 
+### 6. Image Reconstruction with VQVAE
+* Link: [VQVAE](https://github.com/AlvinHew/Projects/tree/main/VQVAE)
+* Topics: Variational-autoencoder
 
